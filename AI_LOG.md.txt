@@ -1,0 +1,80 @@
+AI_LOG.md
+
+Project: ResQLink
+Smart Community Disaster Response and Resource Coordination System
+
+1. AI Tools Used
+- ChatGPT
+- Purpose: PHP development assistance, MySQL queries, JavaScript guidance, debugging, code explanations and testing support.
+
+2. AI-Assisted Features
+
+2.1 User Authentication
+AI Assistance: Guidance for registration, login, logout, password hashing and session management.
+My Contribution: Integrated and tested authentication functionality in the project.
+
+2.2 Relief Request Management
+AI Assistance: Help with creating, editing, deleting and managing relief requests.
+My Contribution: Integrated the functionality and tested request workflows.
+
+2.3 Resource Management
+AI Assistance: Guidance for resource CRUD operations and stock management.
+My Contribution: Integrated the functionality and tested resource quantity updates.
+
+2.4 Assignment and Delivery Management
+AI Assistance: Help with assigning volunteers and resources and updating delivery status.
+My Contribution: Integrated and tested assignment and delivery workflows.
+
+2.5 Notifications and Activity Logs
+AI Assistance: Guidance for notification handling and activity tracking.
+My Contribution: Integrated these features and checked their functionality.
+
+2.6 Dashboard and Reports
+AI Assistance: Help with dashboard statistics, Chart.js and CSV export.
+My Contribution: Integrated the dashboard and report functionality and tested the results.
+
+2.7 Profile and Password Management
+AI Assistance: Guidance for profile editing and password changing.
+My Contribution: Integrated and tested the profile management pages.
+
+2.8 Error Handling
+AI Assistance: Helped identify and fix errors in the custom 404 error page.
+My Contribution: Initially developed the 404 page and tested the corrected implementation.
+
+3. My Personal Contributions
+
+3.1 Requester Dashboard
+I worked on developing the Requester Dashboard, including its layout, navigation and user interface.
+
+3.2 Project Setup
+- Configured the project using XAMPP.
+- Created and managed the MySQL database using phpMyAdmin.
+- Imported the database structure.
+- Tested the application locally.
+
+3.3 Testing
+- Tested login using different user roles.
+- Tested relief request creation, editing and deletion.
+- Tested resource management and stock updates.
+- Tested volunteer assignments and delivery status.
+- Checked notifications, activity logs and CSV reports.
+
+3.4 GitHub Management
+- Initialized the local Git repository.
+- Committed project files.
+- Uploaded the project to GitHub using GitHub Desktop.
+- Added the database schema export.
+
+4. AI-Free Development
+No complete major feature is claimed as entirely AI-free in this log. The Requester Dashboard and 404 page had my own initial contributions, with AI assistance used where applicable.
+
+5. Testing Environment
+- Local Server: XAMPP
+- Backend: PHP
+- Database: MySQL
+- Database Tool: phpMyAdmin
+- Browser: Google Chrome
+- Version Control: Git and GitHub
+
+6. Final Note
+ChatGPT was used as a development assistant. I reviewed, integrated and tested the suggested code and adapted it to the ResQLink project requirements.
